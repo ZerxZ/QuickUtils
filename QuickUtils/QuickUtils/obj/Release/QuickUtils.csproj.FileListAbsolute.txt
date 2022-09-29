@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\Plugins\QuickUtils.dll
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\Plugins\QuickUtils.pdb
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\SkillOneCost\QuickUtils\obj\Release\QuickUtils.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\SkillOneCost\QuickUtils\obj\Release\QuickUtils.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\SkillOneCost\QuickUtils\obj\Release\QuickUtils.dll
+D:\SteamLibrary\steamapps\common\The Scroll Of Taiwu\Mod\SkillOneCost\SkillOneCost\QuickUtils\obj\Release\QuickUtils.pdb
