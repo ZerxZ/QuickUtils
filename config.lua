@@ -83,7 +83,7 @@ function Mod.SettingDropdown(setting)
 end
 
 return Mod
-    .Setting({ Title = "QuickUtils", Version = 2, Author = "Zerxz", Description = "" })
+    .Setting({ Title = "QuickUtils", Version = 12, Author = "Zerxz", Description = "" })
     .SetPlugins({
       FrontendPlugins = { "QuickUtils.dll" },
       BackendPlugins = { "QuickUtilsBackend.dll" },
